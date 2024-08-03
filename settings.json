@@ -1,0 +1,11 @@
+{
+    "channel_id_member_remove": null,
+    "channel_id_role_create": null,
+    "channel_id_role_update": null,
+    "channel_id_channel_delete": null,
+    "channel_id_role_delete": null,
+    "channel_id_voice_state": null,
+    "channel_id_logs_ban": null,
+    "channel_id_unban": null,
+    "channel_id_banlist": null
+}
