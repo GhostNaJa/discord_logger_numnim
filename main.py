@@ -26,7 +26,7 @@ intents.message_content = True
 
 client = commands.Bot(command_prefix='!', intents=intents)
 
-status_play = cycle(["ควยตุ่น", "ควยฟีน", "ควยก้อง", "ควยดุ๊ก"])  # status ข้อความ
+status_play = cycle(["โล้นต้า", "ควยเตอร์", "ควยโจ"])  # status ข้อความ
 
 def random_color():
     return random.randint(0, 0xFFFFFF) # การสุ่มสี
